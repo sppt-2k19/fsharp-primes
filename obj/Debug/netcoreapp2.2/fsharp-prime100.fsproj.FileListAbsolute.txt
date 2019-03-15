@@ -1,0 +1,10 @@
+/Users/thor/RiderProjects/fsharp-prime100/fsharp-prime100/bin/Debug/netcoreapp2.2/fsharp-prime100.deps.json
+/Users/thor/RiderProjects/fsharp-prime100/fsharp-prime100/bin/Debug/netcoreapp2.2/fsharp-prime100.runtimeconfig.json
+/Users/thor/RiderProjects/fsharp-prime100/fsharp-prime100/bin/Debug/netcoreapp2.2/fsharp-prime100.runtimeconfig.dev.json
+/Users/thor/RiderProjects/fsharp-prime100/fsharp-prime100/bin/Debug/netcoreapp2.2/fsharp-prime100.dll
+/Users/thor/RiderProjects/fsharp-prime100/fsharp-prime100/bin/Debug/netcoreapp2.2/fsharp-prime100.pdb
+/Users/thor/RiderProjects/fsharp-prime100/fsharp-prime100/obj/Debug/netcoreapp2.2/fsharp-prime100.fsprojAssemblyReference.cache
+/Users/thor/RiderProjects/fsharp-prime100/fsharp-prime100/obj/Debug/netcoreapp2.2/fsharp-prime100.AssemblyInfoInputs.cache
+/Users/thor/RiderProjects/fsharp-prime100/fsharp-prime100/obj/Debug/netcoreapp2.2/fsharp-prime100.AssemblyInfo.fs
+/Users/thor/RiderProjects/fsharp-prime100/fsharp-prime100/obj/Debug/netcoreapp2.2/fsharp-prime100.dll
+/Users/thor/RiderProjects/fsharp-prime100/fsharp-prime100/obj/Debug/netcoreapp2.2/fsharp-prime100.pdb
